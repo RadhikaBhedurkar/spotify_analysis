@@ -38,4 +38,4 @@ This project performs an in-depth analysis of Spotify streaming data, helping yo
 
 🖼️ Data Visualization
 
-Bar charts, heatmaps, and time series plots
+1. Bar charts, heatmaps, and time series plots
